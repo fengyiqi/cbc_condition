@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/Spectrum_Init.dir/src/main.cpp.o  -o Spectrum_Init  -lfftw3 
