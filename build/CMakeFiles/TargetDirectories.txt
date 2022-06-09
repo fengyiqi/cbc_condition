@@ -1,0 +1,3 @@
+/home/yiqi/cppProjects/spectrum_init/build/CMakeFiles/rebuild_cache.dir
+/home/yiqi/cppProjects/spectrum_init/build/CMakeFiles/edit_cache.dir
+/home/yiqi/cppProjects/spectrum_init/build/CMakeFiles/Spectrum_Init.dir

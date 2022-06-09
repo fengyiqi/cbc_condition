@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yiqi/cppProjects/spectrum_init/src/energy_spectrum.h
+user_definition.h
+/home/yiqi/cppProjects/spectrum_init/src/user_definition.h
+cmath
+-
+stdexcept
+-
+fftw3.h
+/home/yiqi/cppProjects/spectrum_init/src/fftw3.h
+utils.h
+/home/yiqi/cppProjects/spectrum_init/src/utils.h
+fstream
+-
+iostream
+-
+
+/home/yiqi/cppProjects/spectrum_init/src/main.cpp
+energy_spectrum.h
+/home/yiqi/cppProjects/spectrum_init/src/energy_spectrum.h
+
+/home/yiqi/cppProjects/spectrum_init/src/user_definition.h
+stdexcept
+-
+
+/home/yiqi/cppProjects/spectrum_init/src/utils.h
+cmath
+-
+user_definition.h
+/home/yiqi/cppProjects/spectrum_init/src/user_definition.h
+
