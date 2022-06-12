@@ -33,3 +33,6 @@
 
 # build
 build
+
+# jupygdf lab
+.ipynb_checkpoints
